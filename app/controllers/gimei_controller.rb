@@ -1,0 +1,2 @@
+class GimeiController < ApplicationController
+end
